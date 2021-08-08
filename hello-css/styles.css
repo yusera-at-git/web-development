@@ -1,0 +1,36 @@
+body{
+  color: #414141;
+  /*this is a css comment*/
+  /*this is a multi-line*/
+  background-color: #EEEEEE;
+  font-size: 18px;
+}
+h1{
+  color: green;
+  background-color: rgb(200,255,200);
+  font-size: 2em;
+}
+h2{
+  color: green;
+  background-color: rgb(200,150,200);
+  font-size: 1.6em;
+}
+h1, h2, h3{
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+ul{
+  list-style-type: circle;
+  color:rgb(250,150,200);
+}
+
+ol{
+  list-style-type:lower-alpha;
+}
+a{
+  text-decoration: none;
+}
+p{
+  text-align: center;
+}
